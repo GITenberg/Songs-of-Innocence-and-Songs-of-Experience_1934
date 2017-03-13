@@ -1,5 +1,8 @@
 _repo: Songs-of-Innocence-and-Songs-of-Experience_1934
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blake, William
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/295
     wikipedia: http://en.wikipedia.org/wiki/William_Blake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1934#Songs-of-Innocence-and-Songs-of-Experience
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
